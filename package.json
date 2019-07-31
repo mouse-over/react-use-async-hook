@@ -1,6 +1,6 @@
 {
   "name": "@mouseover/react-use-async-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/react-form.js",
   "repository": "github:mouse-over/react-use-async-hook",
   "scripts": {

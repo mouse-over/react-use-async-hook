@@ -8,13 +8,13 @@
 npm:
 
 ```sh
-npm install --save @mouseover/react-from
+npm install --save @mouseover/react-use-async-hook
 ```
 
 yarn:
 
 ```sh
-yarn add @mouseover/react-form
+yarn add @mouseover/react-use-async-hook
 ```
 
 ## License
